@@ -39,5 +39,5 @@
   <br/>
   <br/>
   <div align="center">
-   ![Snake animation](https://github.com/IcaroSilvaFK/IcaroSilvaFK/blob/output/github-contribution-grid-snake.svg)
+   ![snake gif](https://github.com/IcaroSilvaFK/IcaroSilvaFK/blob/output/github-contribution-grid-snake.gif)
   </div>
