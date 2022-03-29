@@ -1,14 +1,4 @@
-
-<h1 align="center">:umbrella: Icaro Vieira da Silva</h1>
-<h3>Desenvolvedor Front-End</h3>
-<p>Principais Ferramentas de desenvolvimento</p>
-<ul>
-  <li>TypeScript</li>
-  <li>React</li>
-  <li>Next</li>
-  <li>Styled-components</li>
-  <li>SASS</li>
- </ul>
+### Olá me chamo Icaro Vieira desnvolvedor web Front-End
 <div align="center">
   <img alt="Info-Github" src="http://github-readme-stats.vercel.app/api?username=IcaroSilvaFK&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true&title_color=d81b60" height="200">  &emsp;&emsp;&emsp;
   <img alt="Info-Github" src="http://github-readme-stats.vercel.app/api/top-langs/?username=IcaroSilvaFK&layout-compact&langs_count-16&theme=ocean_dark&title_color=d81b60" width="245">
