@@ -9,7 +9,7 @@
   <li>Styled-components</li>
   <li>SASS</li>
  </ul>
-<div>
+<div align="center">
   <img alt="Info-Github" src="http://github-readme-stats.vercel.app/api?username=IcaroSilvaFK&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true&title_color=d81b60" height="200">  &emsp;&emsp;&emsp;
   <img alt="Info-Github" src="http://github-readme-stats.vercel.app/api/top-langs/?username=IcaroSilvaFK&layout-compact&langs_count-16&theme=ocean_dark&title_color=d81b60" width="245">
 <div/>
@@ -36,5 +36,6 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> 
    </a>
 </div>
+  <div align="center">
    ![Snake animation](https://github.com/IcaroSilvaFK/IcaroSilvaFK/blob/output/github-contribution-grid-snake.svg)
- 
+  </div>
