@@ -1,5 +1,5 @@
 <h1 align="center"> Olá me chamo Icaro Vieira</h1>
-<b align="center">Desenvolvedor web Front-End</b>
+<p align="center">Desenvolvedor web Front-End</p>
 <div align="center">
   <img alt="Info-Github" src="http://github-readme-stats.vercel.app/api?username=IcaroSilvaFK&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true&title_color=d81b60" height="200">  &emsp;&emsp;&emsp;
   <img alt="Info-Github" src="http://github-readme-stats.vercel.app/api/top-langs/?username=IcaroSilvaFK&layout-compact&langs_count-16&theme=ocean_dark&title_color=d81b60" width="245">
