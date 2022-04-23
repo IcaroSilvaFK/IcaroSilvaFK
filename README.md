@@ -1,23 +1,40 @@
-<h1 align="center"> Olá me chamo Icaro Vieira</h1>
-<p align="center">Desenvolvedor web Front-End</p>
+<h1 align="center"> Olá sou Icaro Vieira <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" /></h1>
+<div align="center">
+  <b >Desenvolvedor web Front-End</b>
+</div>
+<br/>
+<br/>
+<ul>
+  <li>💻 Atualmente estou fazendo mentorias/freelancer</li>
+  <li>⚙ <a href="https://icaro-silva.vercel.app/" target="_blanck">Link do meu portfólio</a></li>
+</ul>
+
 <div align="center">
   <img alt="Info-Github" src="http://github-readme-stats.vercel.app/api?username=IcaroSilvaFK&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true&title_color=d81b60" height="200">  &emsp;&emsp;&emsp;
   <img alt="Info-Github" src="http://github-readme-stats.vercel.app/api/top-langs/?username=IcaroSilvaFK&layout-compact&langs_count-16&theme=ocean_dark&title_color=d81b60" width="245">
 <div/>
   <h3>Tecnologias</h3>
 <div>
-  <img align="center" alt="CSS-logo" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="50"/>
+  <img align="center" alt="HTML-logo" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    
+  <img align="center" alt="CSS-logo" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" >
     &nbsp;
-  <img align="center" alt="HTML-logo" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50" />
+  <img align="center" alt="JavaScript-logo" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     &nbsp;
-  <img align="center" alt="JavaScript-logo" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45"/>
+  <img align="center" alt="SASS-logo" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+        &nbsp;
+  <img align="center" alt="React-logo" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     &nbsp;
-  <img align="center" alt="React-logo" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="50"/>
-  <img align="center" alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50"/>
+ 
+  <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
    &nbsp;
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" width="50"/>
+  <img align="center" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 </div>
   <br/>
+<div align="center">
+  <h3>Contatos :</h3>
+<div/>
+
 <div>
  <a href="mailto:iv2484706@gmail.com" target="_blanck">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL"/>
