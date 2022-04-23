@@ -13,7 +13,7 @@
   <img alt="Info-Github" src="http://github-readme-stats.vercel.app/api?username=IcaroSilvaFK&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true&title_color=d81b60" height="200">  &emsp;&emsp;&emsp;
   <img alt="Info-Github" src="http://github-readme-stats.vercel.app/api/top-langs/?username=IcaroSilvaFK&layout-compact&langs_count-16&theme=ocean_dark&title_color=d81b60" width="245">
 <div/>
-  <h3>Tecnologias</h3>
+  <h3>Tecnologias :</h3>
 <div>
   <img align="center" alt="HTML-logo" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     
