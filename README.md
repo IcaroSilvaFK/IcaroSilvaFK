@@ -14,6 +14,8 @@
     &nbsp;
   <img align="center" alt="React-logo" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="50"/>
   <img align="center" alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50"/>
+   &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" width="50"/>
 </div>
   <br/>
 <div>
