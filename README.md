@@ -16,19 +16,22 @@
   <h3>Tecnologias :</h3>
 <div>
   <img align="center" alt="HTML-logo" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    
+     &nbsp;
   <img align="center" alt="CSS-logo" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" >
+    &nbsp;
+  <img align="center" alt="SASS-logo" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
     &nbsp;
   <img align="center" alt="JavaScript-logo" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     &nbsp;
-  <img align="center" alt="SASS-logo" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-        &nbsp;
   <img align="center" alt="React-logo" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     &nbsp;
- 
   <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
    &nbsp;
-  <img align="center" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img align="center" alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+    &nbsp;
+  <img align="center" alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+    &nbsp;
+  <img align="center" alt="Electron" src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9"/>
 </div>
   <br/>
 <div align="center">
@@ -36,7 +39,7 @@
 <div/>
 
 <div>
- <a href="mailto:iv2484706@gmail.com" target="_blanck">
+ <a href="mailto:icarovsilva1@gmail.com" target="_blanck">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL"/>
  </a>
   <a href="https://www.linkedin.com/in/icaro-vieira-front-end/" target="_blanck">
