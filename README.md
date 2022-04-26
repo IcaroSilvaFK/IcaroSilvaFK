@@ -31,7 +31,7 @@
     &nbsp;
   <img align="center" alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
     &nbsp;
-  <img align="center" alt="Electron" src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9"/>
+  
 </div>
   <br/>
 <div align="center">
