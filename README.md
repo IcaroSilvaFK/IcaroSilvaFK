@@ -7,11 +7,13 @@
 <ul>
   <li>💻 Atualmente estou fazendo mentorias/freelancer</li>
   <li>⚙ <a href="https://icaro-silva.vercel.app/" target="_blanck">Link do meu portfólio</a></li>
+
 </ul>
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
 <div align="center">
   <img alt="Info-Github" src="http://github-readme-stats.vercel.app/api?username=IcaroSilvaFK&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true&title_color=d81b60" height="200">  &emsp;&emsp;&emsp;
   <img alt="Info-Github" src="http://github-readme-stats.vercel.app/api/top-langs/?username=IcaroSilvaFK&layout-compact&langs_count-16&theme=ocean_dark&title_color=d81b60" width="245">
+  
 <div/>
   <h3>Tecnologias :</h3>
 <div>
