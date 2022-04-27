@@ -32,8 +32,8 @@
   <img align="center" alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
     &nbsp;
   <img align="center" alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-    &nbsp;
-  
+  &nbsp;
+   <img align="center" alt="Styled-components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 </div>
   <br/>
 <div align="center">
