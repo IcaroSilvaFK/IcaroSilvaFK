@@ -6,7 +6,7 @@
 <br/>
 <ul>
   <li>💻 Atualmente estou fazendo mentorias/freelancer</li>
-  <li>⚙ <a href="https://icaro-silva.vercel.app/" target="_blanck">Link do meu portfólio</a></li>
+  <li>⚙ <a href="https://icaro.fun" target="_blanck">Link do meu portfólio</a></li>
 
 </ul>
 
