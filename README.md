@@ -1,6 +1,6 @@
 <h1 align="center"> Olá sou Icaro Vieira <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" /></h1>
 <div align="center">
-  <b >Desenvolvedor web Front-End</b>
+  <b >Desenvolvedor web</b>
 </div>
 <br/>
 <br/>
