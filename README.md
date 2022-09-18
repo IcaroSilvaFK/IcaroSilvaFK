@@ -5,7 +5,7 @@
 <br/>
 <br/>
 <ul>
-  <li>💻 Atualmente estou fazendo mentorias/freelancer</li>
+  <li>💻 Atualmente estou fazendo freelancer e trabalhando na Ímpar</li>
   <li>⚙ <a href="https://icaro.fun" target="_blanck">Link do meu portfólio</a></li>
 
 </ul>
@@ -59,3 +59,5 @@
   <div align="center">
      <img src="https://github.com/IcaroSilvaFK/IcaroSilvaFK/blob/output/github-contribution-grid-snake.svg" />
   </div>
+  
+  ![mario](https://user-images.githubusercontent.com/86238635/158221937-9a765567-7f7e-423e-b215-73d09c22e604.png)
