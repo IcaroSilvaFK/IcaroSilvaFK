@@ -1,12 +1,12 @@
-<h1 align="center"> Olá sou Icaro Vieira <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" /></h1>
+<h1 > Welcome to me profile <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" /></h1>
 <div align="center">
-  <b >Desenvolvedor web</b>
+  <b>Web developer</b>
 </div>
 <br/>
 <br/>
 <ul>
-  <li>💻 Atualmente estou fazendo freelancer e trabalhando na Ímpar</li>
-  <li>⚙ <a href="https://icaro.fun" target="_blanck">Link do meu portfólio</a></li>
+  <li>💻 I am currently doing freelance and working at Ímpar</li>
+  <li>⚙ <a href="https://icaro.fun" target="_blanck">Link to my portfolio</a></li>
 
 </ul>
 
@@ -15,12 +15,8 @@
   <img alt="Info-Github" src="http://github-readme-stats.vercel.app/api/top-langs/?username=IcaroSilvaFK&layout-compact&langs_count-16&theme=ocean_dark&title_color=d81b60" width="245">
  
 <div/>
-  <h3>Tecnologias :</h3>
+  <h3>Technologies :</h3>
 <div>
-  <img alt="HTML-logo" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-     &nbsp;
-  <img alt="CSS-logo" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" >
-    &nbsp;
   <img alt="SASS-logo" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
     &nbsp;
   <img alt="JavaScript-logo" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -37,11 +33,13 @@
   &nbsp;
  <img alt="Node js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   &nbsp;
-  <img alt="Node js" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
+<img alt="Prisma" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
+<img alt="Adonisjs" src="https://img.shields.io/badge/adonis%20js-220052?style=for-the-badge&logo=adonisjs&logoColor=white" />
+<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div>
   <br/>
 <div align="center">
-  <h3>Contatos :</h3>
+  <h3>Contacts :</h3>
 <div/>
 
 <div>
