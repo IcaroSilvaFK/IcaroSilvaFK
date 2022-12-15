@@ -12,7 +12,9 @@
 
 <div align="center">
   <img alt="Info-Github" src="http://github-readme-stats.vercel.app/api?username=IcaroSilvaFK&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true&title_color=d81b60" height="200">  &emsp;&emsp;&emsp;
-  <img alt="Info-Github" src="http://github-readme-stats.vercel.app/api/top-langs/?username=IcaroSilvaFK&layout-compact&langs_count-16&theme=ocean_dark&title_color=d81b60" width="245">
+
+  
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IcaroSilvaFK&show_icons=true&locale=en&layout=compact&theme=ocean_dark&title_color=d81b60" alt="kimjayden" />
  
 <div/>
   <h3>Technologies :</h3>
@@ -60,6 +62,7 @@
    <div align='center'>
 <a height="150em" href="http://www.github.com/IcaroSilvaFK"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IcaroSilvaFK&stroke=2ea043&background=171717&ring=3382ed&fire=3382ed&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
 </div>
+ 
   
   ![mario](https://user-images.githubusercontent.com/86238635/158221937-9a765567-7f7e-423e-b215-73d09c22e604.png)
   
