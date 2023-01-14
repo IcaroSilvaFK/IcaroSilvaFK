@@ -63,7 +63,7 @@
 <a height="150em" href="http://www.github.com/IcaroSilvaFK"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IcaroSilvaFK&stroke=2ea043&background=171717&ring=3382ed&fire=3382ed&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
 </div>
   
-  ![](./profile-3d-contrib/profile-night-green.svg)
+  ![Status](./profile-3d-contrib/profile-night-green.svg)
   
   ![mario](https://user-images.githubusercontent.com/86238635/158221937-9a765567-7f7e-423e-b215-73d09c22e604.png)
   
