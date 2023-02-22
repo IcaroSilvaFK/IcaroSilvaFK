@@ -67,7 +67,7 @@
   
   ![mario](https://user-images.githubusercontent.com/86238635/158221937-9a765567-7f7e-423e-b215-73d09c22e604.png)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=icarolgs&count={count})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=icarolgs&count=10)
 
   <details>
     <summary>Ver as últimas 10 músicas que eu ouvi</summary>
