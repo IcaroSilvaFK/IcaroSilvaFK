@@ -70,10 +70,10 @@
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=icarolgs&count=10)
 
   <details>
-    <summary>Ver as últimas 10 músicas que eu ouvi</summary>
-    <a href="https://open.spotify.com/user/6751dda1-2e0f-4e2c-aea3-c7ce0ecf92f2">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=icarolgs&count=10"/>
-      ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=icarolgs&count=10)
+    <summary>My last 10 songs played</summary>
+    <a href="https://open.spotify.com/user/6751dda1-2e0f-4e2c-aea3-c7ce0ecf92f2" align="center">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=icarolgs&count=10" alt="my last 10 songs played"/>
+    
     </a>
 </details>
   
