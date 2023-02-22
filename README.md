@@ -67,13 +67,14 @@
   
   ![mario](https://user-images.githubusercontent.com/86238635/158221937-9a765567-7f7e-423e-b215-73d09c22e604.png)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=icarolgs&count=10)
+<!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=icarolgs&count=10) -->
+
+<img alt="o que estou ouvindo agora" src="https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=icarolgs&theme=dimmed">
 
   <details>
     <summary>My last 10 songs played</summary>
     <a href="https://open.spotify.com/user/6751dda1-2e0f-4e2c-aea3-c7ce0ecf92f2" align="center">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=icarolgs&count=10" alt="my last 10 songs played"/>
-    
     </a>
 </details>
   
