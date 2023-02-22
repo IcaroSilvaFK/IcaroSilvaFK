@@ -72,6 +72,7 @@
   <details>
     <summary>Ver as últimas 10 músicas que eu ouvi</summary>
     <a href="https://open.spotify.com/user/6751dda1-2e0f-4e2c-aea3-c7ce0ecf92f2">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=icarolgs&count=10"/>
       ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=icarolgs&count=10)
     </a>
 </details>
