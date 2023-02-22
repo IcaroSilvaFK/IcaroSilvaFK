@@ -70,7 +70,8 @@
 <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=icarolgs&count=10) -->
 
 <img alt="o que estou ouvindo agora" src="https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=whyy__&theme=dark&show_scrobbles=true">
-
+  <br/>
+  <br/>
   <details>
     <summary>My last 10 songs played</summary>
     <a href="https://open.spotify.com/user/6751dda1-2e0f-4e2c-aea3-c7ce0ecf92f2" align="center">
