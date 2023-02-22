@@ -2,7 +2,7 @@ name: lastfm-to-markdown
 
 on:
   schedule:
-    - cron: '2 0 * * *'
+    - cron: '1 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -15,16 +15,15 @@ jobs:
         with:
           LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
           LASTFM_USER: ${{ secrets.LASTFM_USER }}
-          INCLUDE_LINK: true
-          IMAGE_COUNT: 12
-
+#         INCLUDE_LINK: true # Optional. Defaults is false. If you want to include the link to the album page, set this to true.
+#         IMAGE_COUNT: 6 # Optional. Defaults to 10. Feel free to remove this line if you want.
       - name: commit changes
         continue-on-error: true
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git commit -m ":notes: Updated last.fm's weekly chart" -a
+          git commit -m "Updated last.fm's weekly chart" -a
 
       - name: push changes
         continue-on-error: true
