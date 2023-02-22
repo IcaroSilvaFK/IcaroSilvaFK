@@ -67,6 +67,8 @@
   
   ![mario](https://user-images.githubusercontent.com/86238635/158221937-9a765567-7f7e-423e-b215-73d09c22e604.png)
 
+<img alt="o que estou ouvindo agora" src="https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=icarolgs&theme=dimmed">
+
   <details>
     <summary>Ver as últimas 10 músicas que eu ouvi</summary>
     <a href="https://open.spotify.com/user/6751dda1-2e0f-4e2c-aea3-c7ce0ecf92f2"><img src="https://spotify-recently-played-readme.vercel.app/api?user=6751dda1-2e0f-4e2c-aea3-c7ce0ecf92f2&unique=true&count=10" alt="Spotify tocadas recentemente"></a>
