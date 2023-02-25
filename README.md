@@ -66,9 +66,8 @@
   ![Status](./profile-3d-contrib/profile-night-green.svg)
   
   ![mario](https://user-images.githubusercontent.com/86238635/158221937-9a765567-7f7e-423e-b215-73d09c22e604.png)
-
-<!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=icarolgs&count=10) -->
-
+  
+  
 <img alt="o que estou ouvindo agora" src="https://github-readme-lastfm-stats.netlify.app/.netlify/functions/card?user=whyy__&theme=dark&show_scrobbles=true">
   <br/>
   <br/>
@@ -78,4 +77,3 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=icarolgs&count=10" alt="my last 10 songs played"/>
     </a>
 </details>
-  
