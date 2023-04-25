@@ -50,7 +50,7 @@
  <a href="mailto:icarovsilva1@gmail.com" target="_blanck">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMAIL"/>
  </a>
-  <a href="https://www.linkedin.com/in/icaro-vieira-front-end/" target="_blanck">
+  <a href="https://www.linkedin.com/in/icarovieira/" target="_blanck">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
   </a>
   <a href="tel:62998358542">
