@@ -79,3 +79,7 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=icarolgs&count=10" alt="my last 10 songs played"/>
     </a>
 </details>
+
+  
+  [![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D16869%26project%3D%26in%3D0)](https://codetime.dev)
+  
