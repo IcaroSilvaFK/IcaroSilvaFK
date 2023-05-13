@@ -5,7 +5,7 @@
 <br/>
 <br/>
 <ul>
-  <li>💻 I am currently doing freelance and working at Ímpar</li>
+  <li>💻</li>
   <li>⚙ <a href="https://icaro.fun" target="_blanck">Link to my portfolio</a></li>
 
 </ul>
