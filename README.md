@@ -6,7 +6,7 @@
 <br/>
 <ul>
   <li>💻</li>
-  <li>⚙ <a href="https://icaro.fun" target="_blanck">Link to my portfolio</a></li>
+<!--   <li>⚙ <a href="https://icaro.fun" target="_blanck">Link to my portfolio</a></li> -->
 
 </ul>
 
