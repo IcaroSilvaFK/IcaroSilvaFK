@@ -6,7 +6,7 @@
 <br/>
 <ul>
   <li>💻 <span>Web Developer</span></li>
-  <li>📱<span>Mobile Developer</span></li>
+  <li>📱 <span>Mobile Developer</span></li>
   <li>⚙ <a href="https://icarovsilva.dev/" target="_blanck">Link to my portfolio</a></li>
 
 </ul>
