@@ -21,7 +21,7 @@ func NewSoftwareEngineer() *SoftwareEngineer {
   }
 }
 
-func (*NewSoftwareEngineer) SayHello()  {
+func (*SoftwareEngineer) SayHello()  {
   println("Thanks for dropping by, hope you find some of my work interesting.")
 }
 
