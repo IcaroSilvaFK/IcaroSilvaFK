@@ -48,7 +48,7 @@ me.SayHello()
 ![React](https://img.shields.io/badge/Tools-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8)
 ![NestJS](https://img.shields.io/badge/Tools-NestJS-informational?style=flat&logo=nestjs&logoColor=white&color=6aa6f8)
 ![Gin Gonic](https://img.shields.io/badge/Tools-Gin-informational?style=flat&logo=gin&logoColor=white&color=6aa6f8)
-![Echo](https://img.shields.io/badge/Tools-Echo-informational?style=flat&logoColor=white&color=6aa6f8)
+![Echo](https://img.shields.io/badge/Tools-Echo-informational?style=flat&logo=go&logoColor=white&color=6aa6f8)
 ![AdonisJS](https://img.shields.io/badge/Tools-Adonisjs-informational?style=flat&logo=adonisjs&logoColor=white&color=6aa6f8)
 ![Next.js](https://img.shields.io/badge/Tools-Next.js-informational?style=flat&logo=nextdotjs&logoColor=white&color=6aa6f8)
 
