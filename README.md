@@ -25,9 +25,11 @@ func (*SoftwareEngineer) SayHello()  {
   println("Thanks for dropping by, hope you find some of my work interesting.")
 }
 
-me := NewSoftwareEngineer()
+func main(){
+  me := NewSoftwareEngineer()
 
-me.SayHello()
+  me.SayHello()
+}
 ```
 ## 📝 Contact us
 
